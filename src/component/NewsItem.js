@@ -11,8 +11,6 @@ export class NewsItem extends Component {
                         <div className="card-body">
                             <h5 className="card-title">{Category}</h5>
                             <p className="card-text">{Description}</p>
-                            <div className='image'><img src="../bookimg/download.jpg"   alt=""></img></div>
-                            
                             {/* <a href="#" className="btn btn-primary">Go somewhere</a> */}
                         </div>
                 </div>
